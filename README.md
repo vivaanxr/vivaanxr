@@ -28,7 +28,7 @@ I make react native apps
 - [YU Food](https://github.com/vivaanxr/YU-Food) | 📲 
 
 #### Would love for you to check out
-- [Omnia](https://github.com/vivaanxr/Omnia) | 💻 📲 🕸
+- [Omnia](https://github.com/vivaanxr/Omnia) | 📲 
   
   </details>
 </details>
