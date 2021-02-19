@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ```bash
-┌──()-[~]
-└─$ echo "Hello World" && whoami
+$ echo "Hello World" && whoami
 Hello World
 Vivaan Rajput
 ```
 
-> My  [LinkedIn](https://www.linkedin.com/in/vivaan-rajput-39882418a/)
+ My  [LinkedIn](https://www.linkedin.com/in/vivaan-rajput-39882418a/)
 
 #### Currently I'm working on
 - [YU Food](https://github.com/vivaanxr/YU-Food) | 📲 
