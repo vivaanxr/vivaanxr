@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```bash
+┌──()-[~]
+└─$ echo "Hello World" && whoami
+Hello World
+Vivaan Rajput
+```
+
+> My  [LinkedIn](https://www.linkedin.com/in/vivaan-rajput-39882418a/)
+
+#### Currently I'm working on
+- [YU Food](https://github.com/vivaanxr/YU-Food) | 📲 
+
+#### Would love for you to check out
+- [Omnia](https://github.com/vivaanxr/Omnia) | 💻 📲 🕸
+  
+  </details>
+</details>
+
+
+
+
+
+
