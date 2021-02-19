@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ```bash
-$ echo "Hello World" && whoami
+$ echo "Hello World" && whoami && whatido
 Hello World
 Vivaan Rajput
+I make react native apps
 ```
 
  My  [LinkedIn](https://www.linkedin.com/in/vivaan-rajput-39882418a/)
