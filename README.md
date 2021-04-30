@@ -22,7 +22,6 @@ Vivaan Rajput
 I make react native apps
 ```
 
----
 
  >
  > My  [LinkedIn](https://www.linkedin.com/in/vivaan-rajput-39882418a/)
