@@ -22,9 +22,13 @@ Vivaan Rajput
 I make react native apps
 ```
 
+
+
  My  [LinkedIn](https://www.linkedin.com/in/vivaan-rajput-39882418a/)
  
  My [App Store Page](https://apps.apple.com/us/developer/vivaan-rajput/id1547692927)
+ 
+ 
 
 #### Would love for you to check out
 - [YU Food](https://apps.apple.com/us/app/yu-food-yorku/id1547692715) | 📲 
