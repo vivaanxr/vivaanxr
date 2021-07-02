@@ -38,7 +38,7 @@ I make react native apps
   </details>
 </details>
 
-![JudahGoldstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivaanxr&show_icons=true&theme=dark)   
+![Vivaanxr's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivaanxr&show_icons=true&theme=dark)   
 
 
 
