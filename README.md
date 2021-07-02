@@ -38,6 +38,8 @@ I make react native apps
   </details>
 </details>
 
+https://github-readme-stats.vercel.app/api?username=vivaanxr&show_icons=true&theme=dark
+
 
 
 
